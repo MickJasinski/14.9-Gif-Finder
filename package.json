@@ -1,0 +1,20 @@
+{
+  "name": "gif-finder",
+  "version": "1.0.0",
+  "description": "Gif search tool",
+  "main": "script.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "test"
+  },
+  "keywords": [
+    "gif"
+  ],
+  "author": "Mick Jasinski",
+  "license": "ISC",
+  "devDependencies": {
+    "esformatter": "^0.10.0",
+    "esformatter-jsx": "^8.0.1",
+    "http-server": "^0.11.1"
+  }
+}
